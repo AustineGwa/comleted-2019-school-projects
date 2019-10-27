@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PostCar">
+
+    <EditText
+        android:id="@+id/eddrivername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:hint="Driver Name"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/edcarowner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Car owner"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/eddrivername"
+        app:layout_constraintStart_toStartOf="@+id/eddrivername"
+        app:layout_constraintTop_toBottomOf="@+id/eddrivername" />
+
+    <EditText
+        android:id="@+id/edcarsize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Size"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/edcarowner"
+        app:layout_constraintStart_toStartOf="@+id/edcarowner"
+        app:layout_constraintTop_toBottomOf="@id/edcarowner"
+        tools:layout_editor_absoluteY="159dp" />
+
+    <EditText
+        android:id="@+id/eddestination"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="destination"
+        app:layout_constraintEnd_toEndOf="@+id/edcarsize"
+        app:layout_constraintStart_toStartOf="@+id/edcarsize"
+        app:layout_constraintTop_toBottomOf="@id/edcarsize" />
+
+    <EditText
+        android:id="@+id/eddate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="date of travel"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/eddestination"
+        app:layout_constraintStart_toStartOf="@+id/eddestination"
+        app:layout_constraintTop_toBottomOf="@id/eddestination" />
+
+    <Button
+        android:id="@+id/btnpostcar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/bg"
+        android:text="Post"
+        app:layout_constraintEnd_toEndOf="@+id/ednoplate"
+        app:layout_constraintStart_toStartOf="@+id/ednoplate"
+        app:layout_constraintTop_toBottomOf="@+id/ednoplate" />
+
+    <EditText
+        android:id="@+id/ednoplate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Number plate"
+        app:layout_constraintEnd_toEndOf="@+id/eddate"
+        app:layout_constraintStart_toStartOf="@+id/eddate"
+        app:layout_constraintTop_toBottomOf="@+id/eddate" />
+
+</android.support.constraint.ConstraintLayout>

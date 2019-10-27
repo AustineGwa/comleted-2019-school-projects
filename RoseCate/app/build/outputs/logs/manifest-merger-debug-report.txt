@@ -1,0 +1,517 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\1f0348e72225a861287481a5f460c6b2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7baa2fc49a8a6e5bf697c65ee23186ec\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7b44ad809a8effb86969022fa80722d4\AndroidManifest.xml:16:1-20:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\831326f7c873e4c12b593199d3d0699f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\56d89fd79e9ecbb398969c4527eafe1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c21da38acb4628261dc834712afd63c9\AndroidManifest.xml:16:1-20:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5d78c4a773731f0221ec015de0ed24d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\440caabc90290659619c9274bbccc688\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\50c9e4c4a6cc82aac88f8f71c1508c21\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6bc4c65873ef49d2843bbaaf582731d9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9f36d703f7413de8ae581262bf917b57\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b567ea49bc670f63c80dc16a0ae262b8\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\416ea807299e33e8ddeea78fe859a6aa\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\3eb1e19c3fe9e652bdf7954e63d0eb14\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\500c507ab77d5ba3d71a4f7483ed107e\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5ba420b7a138a477977fb363c4010032\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\85f4fe68bdc6edbf57901a32b9e4d494\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e7530cb10761c6858a534dacde09d0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\2bcfa512fa3fb89870ff5712d72b4fb2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\622b0bb3153e5d709d509d812aff2ba4\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\be0b3ef18e1d2c58d56547baa1ad5d16\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9ba2edbb823e833c52f4c99835af35bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\10c381bc999dfa7cd49714b8c574b5ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c5eac444101a9009c973c350af557d67\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\693860eecea2f6a7004e9fc0ee3fb204\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\48c063c5012ccaf393a464529a6832f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\594275b844e05c60f0edc104997179a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\441a4e21859af65865b1304349430d81\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1ce8f5c7cf4ea022ce664f23bdbf77a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\af968bae559a31ddf53c434e43611796\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\d49f645b7808e8b6928abbd98b54c56d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\0619391db0c4936a641052a30c9177cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\96ffe18b87d36914310c153d35bd5f15\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6aeb0d9d7dd12e14884d72bdde474e6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1e9c2b3c096ab987071c65db5476bb5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9b4f90d3490f5e84d1b1f934c63939f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c2a8bc4ff12b49d9b2221eb4486e3a77\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b38c7e68352df291ad579c71e64c7472\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4be889470141271ef6741d1623ceb07f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e8f3fb30d725d4f23f0ab8054b8b38\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\cb62594d11585739bb2d34b53f8ebf5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\99b36176718e252389e1106238423c2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\37704fd29f2ca862409d052c703213ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\fbfe91099131ccf0af5b213a75dd026a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ac1c6e8430b21e86c7d339642a42048f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f1db6e9b274b5d5b88dbeb026a0bf302\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f7b352fa9b30035bfc40011911525b4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5c92c432f29ed06123dd9fb53685f052\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a45dcadeb36c5fbfd718ce63661d6100\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\91cfba19e09f65e2a1e08058e3c46b30\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\1f0348e72225a861287481a5f460c6b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\1f0348e72225a861287481a5f460c6b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7baa2fc49a8a6e5bf697c65ee23186ec\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7baa2fc49a8a6e5bf697c65ee23186ec\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7b44ad809a8effb86969022fa80722d4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7b44ad809a8effb86969022fa80722d4\AndroidManifest.xml:18:5-42
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\831326f7c873e4c12b593199d3d0699f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\831326f7c873e4c12b593199d3d0699f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\56d89fd79e9ecbb398969c4527eafe1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\56d89fd79e9ecbb398969c4527eafe1e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c21da38acb4628261dc834712afd63c9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c21da38acb4628261dc834712afd63c9\AndroidManifest.xml:18:5-42
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5d78c4a773731f0221ec015de0ed24d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5d78c4a773731f0221ec015de0ed24d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\440caabc90290659619c9274bbccc688\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\440caabc90290659619c9274bbccc688\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\50c9e4c4a6cc82aac88f8f71c1508c21\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\50c9e4c4a6cc82aac88f8f71c1508c21\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6bc4c65873ef49d2843bbaaf582731d9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6bc4c65873ef49d2843bbaaf582731d9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9f36d703f7413de8ae581262bf917b57\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9f36d703f7413de8ae581262bf917b57\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b567ea49bc670f63c80dc16a0ae262b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b567ea49bc670f63c80dc16a0ae262b8\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\416ea807299e33e8ddeea78fe859a6aa\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\416ea807299e33e8ddeea78fe859a6aa\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\3eb1e19c3fe9e652bdf7954e63d0eb14\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\3eb1e19c3fe9e652bdf7954e63d0eb14\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\500c507ab77d5ba3d71a4f7483ed107e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\500c507ab77d5ba3d71a4f7483ed107e\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5ba420b7a138a477977fb363c4010032\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5ba420b7a138a477977fb363c4010032\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\85f4fe68bdc6edbf57901a32b9e4d494\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\85f4fe68bdc6edbf57901a32b9e4d494\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e7530cb10761c6858a534dacde09d0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e7530cb10761c6858a534dacde09d0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\2bcfa512fa3fb89870ff5712d72b4fb2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\2bcfa512fa3fb89870ff5712d72b4fb2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\622b0bb3153e5d709d509d812aff2ba4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\622b0bb3153e5d709d509d812aff2ba4\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\be0b3ef18e1d2c58d56547baa1ad5d16\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\be0b3ef18e1d2c58d56547baa1ad5d16\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:18:5-42
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9ba2edbb823e833c52f4c99835af35bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9ba2edbb823e833c52f4c99835af35bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\10c381bc999dfa7cd49714b8c574b5ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\10c381bc999dfa7cd49714b8c574b5ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c5eac444101a9009c973c350af557d67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c5eac444101a9009c973c350af557d67\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\693860eecea2f6a7004e9fc0ee3fb204\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\693860eecea2f6a7004e9fc0ee3fb204\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\48c063c5012ccaf393a464529a6832f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\48c063c5012ccaf393a464529a6832f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\594275b844e05c60f0edc104997179a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\594275b844e05c60f0edc104997179a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\441a4e21859af65865b1304349430d81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\441a4e21859af65865b1304349430d81\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1ce8f5c7cf4ea022ce664f23bdbf77a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1ce8f5c7cf4ea022ce664f23bdbf77a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\af968bae559a31ddf53c434e43611796\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\af968bae559a31ddf53c434e43611796\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\d49f645b7808e8b6928abbd98b54c56d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\d49f645b7808e8b6928abbd98b54c56d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\0619391db0c4936a641052a30c9177cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\0619391db0c4936a641052a30c9177cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\96ffe18b87d36914310c153d35bd5f15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\96ffe18b87d36914310c153d35bd5f15\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6aeb0d9d7dd12e14884d72bdde474e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6aeb0d9d7dd12e14884d72bdde474e6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1e9c2b3c096ab987071c65db5476bb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\e1e9c2b3c096ab987071c65db5476bb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9b4f90d3490f5e84d1b1f934c63939f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9b4f90d3490f5e84d1b1f934c63939f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c2a8bc4ff12b49d9b2221eb4486e3a77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c2a8bc4ff12b49d9b2221eb4486e3a77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b38c7e68352df291ad579c71e64c7472\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b38c7e68352df291ad579c71e64c7472\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4be889470141271ef6741d1623ceb07f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4be889470141271ef6741d1623ceb07f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e8f3fb30d725d4f23f0ab8054b8b38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e8f3fb30d725d4f23f0ab8054b8b38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\cb62594d11585739bb2d34b53f8ebf5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\cb62594d11585739bb2d34b53f8ebf5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\99b36176718e252389e1106238423c2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\99b36176718e252389e1106238423c2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\37704fd29f2ca862409d052c703213ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\37704fd29f2ca862409d052c703213ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\fbfe91099131ccf0af5b213a75dd026a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\fbfe91099131ccf0af5b213a75dd026a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ac1c6e8430b21e86c7d339642a42048f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ac1c6e8430b21e86c7d339642a42048f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f1db6e9b274b5d5b88dbeb026a0bf302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f1db6e9b274b5d5b88dbeb026a0bf302\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f7b352fa9b30035bfc40011911525b4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\f7b352fa9b30035bfc40011911525b4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5c92c432f29ed06123dd9fb53685f052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5c92c432f29ed06123dd9fb53685f052\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a45dcadeb36c5fbfd718ce63661d6100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a45dcadeb36c5fbfd718ce63661d6100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\91cfba19e09f65e2a1e08058e3c46b30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\91cfba19e09f65e2a1e08058e3c46b30\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:17:22-76
+application
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:19:5-73:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\1f0348e72225a861287481a5f460c6b2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\1f0348e72225a861287481a5f460c6b2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7baa2fc49a8a6e5bf697c65ee23186ec\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7baa2fc49a8a6e5bf697c65ee23186ec\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7b44ad809a8effb86969022fa80722d4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\7b44ad809a8effb86969022fa80722d4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c21da38acb4628261dc834712afd63c9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c21da38acb4628261dc834712afd63c9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\50c9e4c4a6cc82aac88f8f71c1508c21\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\50c9e4c4a6cc82aac88f8f71c1508c21\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6bc4c65873ef49d2843bbaaf582731d9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6bc4c65873ef49d2843bbaaf582731d9\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9f36d703f7413de8ae581262bf917b57\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9f36d703f7413de8ae581262bf917b57\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b567ea49bc670f63c80dc16a0ae262b8\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\b567ea49bc670f63c80dc16a0ae262b8\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\3eb1e19c3fe9e652bdf7954e63d0eb14\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\3eb1e19c3fe9e652bdf7954e63d0eb14\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\500c507ab77d5ba3d71a4f7483ed107e\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\500c507ab77d5ba3d71a4f7483ed107e\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5ba420b7a138a477977fb363c4010032\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5ba420b7a138a477977fb363c4010032\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\85f4fe68bdc6edbf57901a32b9e4d494\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\85f4fe68bdc6edbf57901a32b9e4d494\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e7530cb10761c6858a534dacde09d0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e7530cb10761c6858a534dacde09d0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\2bcfa512fa3fb89870ff5712d72b4fb2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\2bcfa512fa3fb89870ff5712d72b4fb2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\622b0bb3153e5d709d509d812aff2ba4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\622b0bb3153e5d709d509d812aff2ba4\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e8f3fb30d725d4f23f0ab8054b8b38\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c3e8f3fb30d725d4f23f0ab8054b8b38\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\c80b7c8c864f1ca682fbdd16ccb608ca\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:21:9-40
+	android:allowBackup
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.project.smartsilent.HomeActivity
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:32:13-45
+	android:theme
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:33:13-51
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.project.smartsilent.BaseActivity
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:40:9-50
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:40:19-47
+activity#com.example.project.smartsilent.PlaceList
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:41:9-47
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:41:19-44
+activity#com.example.project.smartsilent.TimeActivity
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:42:19-47
+activity#com.example.project.smartsilent.SettingsActivity
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:43:9-54
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:43:19-51
+activity#com.example.project.smartsilent.HelpActivity
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:44:19-47
+activity#com.example.project.smartsilent.AboutUs
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:45:9-45
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:45:19-42
+activity#com.example.project.smartsilent.PickPlace
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:46:9-47
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:46:19-44
+activity#com.example.project.smartsilent.PlaceCurrent
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:47:9-50
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:47:19-47
+receiver#com.example.project.smartsilent.SilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:49:19-59
+intent-filter#action:name:net.accella.sheduleexample.SilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:50:13-52:29
+action#net.accella.sheduleexample.SilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:51:17-94
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:51:25-91
+receiver#com.example.project.smartsilent.UnsilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:54:19-61
+intent-filter#action:name:net.accella.sheduleexample.UnsilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:55:13-57:29
+action#net.accella.sheduleexample.UnsilenceBroadcastReceiver
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:56:17-96
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:56:25-93
+service#com.example.project.smartsilent.GeofenceTransitionsIntentService
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:60:9-69
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:60:18-66
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:65:9-67:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6a81e01c9e50a1fb037caaa53460225b\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:67:13-66
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:66:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:68:9-70:71
+	android:value
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:70:13-68
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:69:13-58
+activity#com.example.project.smartsilent.TimeList
+ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:72:9-55
+	android:name
+		ADDED from C:\Users\gwaza\AndroidStudioProjects\RoseCate\app\src\main\AndroidManifest.xml:72:19-43
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\9210c618203cee145dc9e31bd83feb1c\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4ad293b0d6ce723e31565337efc1fdcd\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\4037855aaa69aec0debc78c2aec76c57\AndroidManifest.xml:21:22-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\a75db9d612698fbd1c7e13c58e275dd4\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\ecf6cfd8a1bb225399e9ba1a40643712\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5e4e88cfbebed826d52de67b01718a07\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\5fa22931a84e1f9660d8a1aa6eba4b40\AndroidManifest.xml:30:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\gwaza\.gradle\caches\transforms-2\files-2.1\6332968d425b17b01384d31f7d815c5a\AndroidManifest.xml:42:11-82

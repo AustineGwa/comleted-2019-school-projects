@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178431139379",
+    "firebase_url": "https://carshare-c9b9c.firebaseio.com",
+    "project_id": "carshare-c9b9c",
+    "storage_bucket": "carshare-c9b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178431139379:android:05e2e17c65924f5c",
+        "android_client_info": {
+          "package_name": "com.gwazasoftwares.gwaza.carshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178431139379-ql50vu355jr3b49tvmgip3m23p69ffgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwazasoftwares.gwaza.carshare",
+            "certificate_hash": "2996c637fcc9605cd627aa1be111cee480c95c4d"
+          }
+        },
+        {
+          "client_id": "178431139379-4grrukkltbf2a80s8vjafm93vi7u6nes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnAbp8AZYH9zRWuIKVMg2emwBWQGVhkvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178431139379-4grrukkltbf2a80s8vjafm93vi7u6nes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

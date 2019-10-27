@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738747368603",
+    "firebase_url": "https://object-detection-aae09.firebaseio.com",
+    "project_id": "object-detection-aae09",
+    "storage_bucket": "object-detection-aae09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738747368603:android:a9dd7efbdeaace36",
+        "android_client_info": {
+          "package_name": "com.google.firebase.mlkit.codelab.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738747368603-l1coocqtnbn8eun6crdo5k7notrl4r4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.mlkit.codelab.objectdetection",
+            "certificate_hash": "f539b121380a6e9b7e3892b77f217e53bfdb3abb"
+          }
+        },
+        {
+          "client_id": "738747368603-u6ikqqa611usafrjf64f0cs18ka5f0h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdMsd15PX4e-NPI14dbwnwPXdlB96OpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738747368603-u6ikqqa611usafrjf64f0cs18ka5f0h0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

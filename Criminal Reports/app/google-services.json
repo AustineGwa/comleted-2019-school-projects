@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808434700698",
+    "firebase_url": "https://criminal-reports.firebaseio.com",
+    "project_id": "criminal-reports",
+    "storage_bucket": "criminal-reports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808434700698:android:5bc222203c1a36de",
+        "android_client_info": {
+          "package_name": "com.example.criminalrepots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808434700698-3lhbokthob99csvap3m66tem21n6j03i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.criminalrepots",
+            "certificate_hash": "f539b121380a6e9b7e3892b77f217e53bfdb3abb"
+          }
+        },
+        {
+          "client_id": "808434700698-f6m2su1mi9qr2741b928foo7mcpmvm7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ljbJ5790WiXMBRb370w0VKlJFHlh0Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808434700698-f6m2su1mi9qr2741b928foo7mcpmvm7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
