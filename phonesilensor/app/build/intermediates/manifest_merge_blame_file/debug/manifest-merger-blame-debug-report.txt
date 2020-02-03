@@ -5,33 +5,33 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:7:5-47
+7-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:7:5-47
 8        android:minSdkVersion="16"
-8-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:7:5-47
+8-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:7:5-47
 9        android:targetSdkVersion="28" />
-9-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:7:15-44
+9-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:7:15-44
 10
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:9:5-81
-11-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:9:22-78
+11-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:9:5-81
+11-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:9:22-78
 12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-12-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:10:5-75
-12-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:10:22-72
+12-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:10:5-75
+12-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:10:22-72
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:11:5-80
-13-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:11:22-77
+13-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:11:5-80
+13-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:11:22-77
 14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-14-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:12:5-81
-14-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:12:22-78
+14-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:12:5-81
+14-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:12:22-78
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:13:5-79
-15-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:13:22-76
+15-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:13:5-79
+15-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:13:22-76
 16    <uses-permission android:name="android.permission.INTERNET" />
-16-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:14:5-67
-16-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:14:22-64
+16-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:14:5-67
+16-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:14:22-64
 17    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-17-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:15:5-79
-17-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:15:22-76
+17-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:15:5-79
+17-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:15:22-76
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permissions required for GCM -->
 18-->[com.google.android.gms:play-services-ads:8.4.0] /home/gwaza/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:21:5-78
 18-->[com.google.android.gms:play-services-ads:8.4.0] /home/gwaza/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:21:22-76
@@ -50,18 +50,18 @@
 24-->[com.google.android.gms:play-services-measurement:8.4.0] /home/gwaza/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:24:22-65
 25
 26    <application
-26-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:17:5-71:19
+26-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:17:5-71:19
 27        android:allowBackup="true"
-27-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:18:9-35
+27-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:18:9-35
 28        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 28-->[com.android.support:support-compat:28.0.0] /home/gwaza/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:22:18-91
 29        android:debuggable="true"
 30        android:icon="@drawable/logo_n"
-30-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:19:9-40
+30-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:19:9-40
 31        android:label="@string/app_name"
-31-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:20:9-41
+31-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:20:9-41
 32        android:theme="@style/AppTheme" >
-32-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:21:9-40
+32-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:21:9-40
 33
 34        <!--
 35        	We will launch BaseActivity as launcher.
@@ -69,93 +69,93 @@
 37        -->
 38
 39        <activity
-39-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:28:9-37:20
+39-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:28:9-37:20
 40            android:name="com.example.project.smartsilent.HomeActivity"
-40-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:29:13-41
+40-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:29:13-41
 41            android:label="@string/app_name"
-41-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:30:13-45
+41-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:30:13-45
 42            android:theme="@style/Theme.AppCompat" >
-42-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:31:13-51
+42-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:31:13-51
 43            <intent-filter>
-43-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:32:13-36:29
+43-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:32:13-36:29
 44                <action android:name="android.intent.action.MAIN" />
-44-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:33:17-69
-44-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:33:25-66
+44-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:33:17-69
+44-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:33:25-66
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:35:17-77
-46-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:35:27-74
+46-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:35:17-77
+46-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:35:27-74
 47            </intent-filter>
 48        </activity>
 49        <activity android:name="com.example.project.smartsilent.BaseActivity" />
-49-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:38:9-50
-49-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:38:19-47
+49-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:38:9-50
+49-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:38:19-47
 50        <activity android:name="com.example.project.smartsilent.PlaceList" />
-50-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:39:9-47
-50-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:39:19-44
+50-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:39:9-47
+50-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:39:19-44
 51        <activity android:name="com.example.project.smartsilent.TimeActivity" />
-51-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:40:9-50
-51-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:40:19-47
+51-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:40:9-50
+51-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:40:19-47
 52        <activity android:name="com.example.project.smartsilent.SettingsActivity" />
-52-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:41:9-54
-52-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:41:19-51
+52-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:41:9-54
+52-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:41:19-51
 53        <activity android:name="com.example.project.smartsilent.HelpActivity" />
-53-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:42:9-50
-53-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:42:19-47
+53-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:42:9-50
+53-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:42:19-47
 54        <activity android:name="com.example.project.smartsilent.AboutUs" />
-54-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:43:9-45
-54-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:43:19-42
+54-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:43:9-45
+54-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:43:19-42
 55        <activity android:name="com.example.project.smartsilent.PickPlace" />
-55-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:44:9-47
-55-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:44:19-44
+55-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:44:9-47
+55-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:44:19-44
 56        <activity android:name="com.example.project.smartsilent.PlaceCurrent" />
-56-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:45:9-50
-56-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:45:19-47
+56-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:45:9-50
+56-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:45:19-47
 57
 58        <receiver android:name="com.example.project.smartsilent.SilenceBroadcastReceiver" >
-58-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:47:9-51:20
-58-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:47:19-59
+58-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:47:9-51:20
+58-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:47:19-59
 59            <intent-filter>
-59-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:48:13-50:29
+59-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:48:13-50:29
 60                <action android:name="net.accella.sheduleexample.SilenceBroadcastReceiver" />
-60-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:49:17-94
-60-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:49:25-91
+60-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:49:17-94
+60-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:49:25-91
 61            </intent-filter>
 62        </receiver>
 63        <receiver android:name="com.example.project.smartsilent.UnsilenceBroadcastReceiver" >
-63-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:52:9-56:20
-63-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:52:19-61
+63-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:52:9-56:20
+63-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:52:19-61
 64            <intent-filter>
-64-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:53:13-55:29
+64-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:53:13-55:29
 65                <action android:name="net.accella.sheduleexample.UnsilenceBroadcastReceiver" />
-65-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:54:17-96
-65-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:54:25-93
+65-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:54:17-96
+65-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:54:25-93
 66            </intent-filter>
 67        </receiver>
 68
 69        <service android:name="com.example.project.smartsilent.GeofenceTransitionsIntentService" />
-69-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:58:9-69
-69-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:58:18-66
+69-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:58:9-69
+69-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:58:18-66
 70        <!--
 71 ATTENTION: This was auto-generated to add Google Play services to your project for
 72     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
 73        -->
 74        <meta-data
-74-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:63:9-65:69
+74-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:63:9-65:69
 75            android:name="com.google.android.gms.version"
-75-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:64:13-58
+75-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:64:13-58
 76            android:value="@integer/google_play_services_version" />
-76-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:65:13-66
+76-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:65:13-66
 77        <meta-data
-77-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:66:9-68:71
+77-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:66:9-68:71
 78            android:name="com.google.android.geo.API_KEY"
-78-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:67:13-58
+78-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:67:13-58
 79            android:value="AIzaSyCkdiCFyA6bV-rX0aFswbe7KYFtL8kE6-8" />
-79-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:68:13-68
+79-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:68:13-68
 80
 81        <activity android:name="com.example.project.smartsilent.TimeList" />
-81-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:70:9-55
-81-->/home/gwaza/AndroidStudioProjects/rosecatephonesilensor/app/src/main/AndroidManifest.xml:70:19-43
+81-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:70:9-55
+81-->/home/gwaza/AndroidStudioProjects/2019-school-projects/phonesilensor/app/src/main/AndroidManifest.xml:70:19-43
 82        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
 83        <activity
 83-->[com.google.android.gms:play-services-ads:8.4.0] /home/gwaza/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:26:9-29:64
